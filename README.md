@@ -1,2 +1,2 @@
 # MLOPS_DVC
-this repor is for data version control learning
+This repo is for data version control learning
